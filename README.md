@@ -8,8 +8,7 @@ seperti yang telah dispesifikasikan. Aamiin
 # Desain Program: Inheritance & Composition
 
 ## Diagram
-![Diagram](diagram/Dokumentasi/ttpp3.drawio.png)
-
+![Diagram](diagram/ttpp3.drawio.png)
 ---
 
 ## Kelas-kelas
@@ -86,10 +85,10 @@ seperti yang telah dispesifikasikan. Aamiin
 
 ## Dokumentasi
 **Cpp**
-![Cpp Screenshot](cpp/Dokumentasi/Screenshot%202025-10-03%20214951.png)
+<img src="cpp/Dokumentasi/Screenshot%202025-10-03%20214951.png" width="500">
 
 **Python**
-![Python Screenshot](python/Dokumentasi/Screenshot%202025-10-03%20215010.png)
+<img src="python/Dokumentasi/Screenshot%202025-10-03%20215010.png" width="500">
 
 **Java**
-![Java Screenshot](java/Dokumentasi/Screenshot%202025-10-03%20215031.png)
+<img src="java/Dokumentasi/Screenshot%202025-10-03%20215031.png" width="500">
