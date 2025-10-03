@@ -8,7 +8,7 @@ seperti yang telah dispesifikasikan. Aamiin
 # Desain Program: Inheritance & Composition
 
 ## Diagram
-![Diagram C++](cpp/Dokumentasi/ttpp3.png)
+![Diagram](diagram/ttpp3.jpg)
 
 ---
 
