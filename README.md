@@ -66,17 +66,17 @@ seperti yang telah dispesifikasikan. Aamiin
 
 ## Penjelasan Atribut & Method Tiap Kelas
 
-**HouseOldItem** berfungsi sebagai kelas dasar yang menyimpan informasi umum barang rumah tangga. Atributnya adalah `item` (string), `price` (double), dan `room` (string). Method yang disediakan berupa setter-getter untuk tiap atribut dan `printItem()` untuk menampilkan data.  
+**HouseOldItem** berfungsi sebagai kelas dasar yang menyimpan informasi umum barang rumah tangga. Atributnya adalah `item` (string), `price` (double), dan `room` (string). Method yang disediakan berupa setter-getter (setItem, getItem, setPrice, getPrice, setRoom, getRoom) untuk tiap atribut dan `printItem()` yang menampilkan isi atribut tersebut ke layar.  
 
-**BrandInfo** menyimpan identitas merek berupa `brandName`, `originCountry`, dan `establishedYear`. Method setter-getter tersedia untuk tiap atribut, serta `printBrand()` untuk menampilkan detail merek.  
+**BrandInfo** menyimpan identitas merek berupa `brandName`, `originCountry`, dan `establishedYear`. Method setter-getter tersedia untuk tiap atribut, serta `printBrand()` yang berfungsi mencetak informasi merek secara lengkap.
 
 **MaterialInfo** dipakai untuk menjelaskan bahan furnitur. Atributnya `type` (string) dan `qualityGrade` (string). Method setter-getter serta `printMaterial()` disediakan untuk mengakses dan menampilkan data bahan.  
 
-**PowerTypeInfo** menyimpan detail sumber tenaga perangkat elektronik. Atributnya `sourceType` (string) dan `wattage` (int). Method setter-getter serta `printPowerSource()` menampilkan data tenaga.  
+**PowerTypeInfo**  digunakan untuk menyimpan detail sumber tenaga sebuah perangkat elektronik. Atributnya `sourceType` (string) dan `wattage` (int). Method setter-getter serta `printPowerSource()` menampilkan data tenaga.  
 
 **WarrantyInfo** menyimpan informasi garansi perangkat. Atributnya `duration` (string) dan `coverageDetails` (string). Method setter-getter serta `printWarranty()` menampilkan data garansi.  
 
-**RoomInfo** menyimpan informasi lokasi ruangan. Atributnya `roomName` (string) dan `floorLevel` (int). Method setter-getter serta `printRoom()` menampilkan lokasi barang.  
+**RoomInfo** menyimpan informasi lokasi ruangan yang lebih detail. Atributnya terdiri dari `roomName` (string) dan `floorLevel` (int). Method setter-getter serta `printRoom()` menampilkan lokasi barang.  
 
 **FurnitureItem** adalah turunan dari `HouseOldItem` yang juga berhubungan dengan `BrandInfo` dan memiliki `MaterialInfo`. Atribut tambahannya `material` dan `durability`. Method `printFurniture()` digunakan untuk menampilkan semua informasi.  
 
