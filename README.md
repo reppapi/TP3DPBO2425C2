@@ -86,7 +86,7 @@ seperti yang telah dispesifikasikan. Aamiin
 
 ## Dokumentasi
 **Cpp**
-![C++ Screenshot](cpp/Dokumentasi/Screenshot%202025-10-03%20214951.png)
+![Cpp Screenshot](cpp/Dokumentasi/Screenshot%202025-10-03%20214951.png)
 
 **Python**
 ![Python Screenshot](python/Dokumentasi/Screenshot%202025-10-03%20215010.png)
