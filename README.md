@@ -8,7 +8,8 @@ seperti yang telah dispesifikasikan. Aamiin
 # Desain Program: Inheritance & Composition
 
 ## Diagram
-![Diagram](diagram/Screenshot%202025-10-03%20224036.png)
+
+![C++ Screenshot](cpp/Dokumentasi/Screenshot%202025-10-03%20224036.png)
 
 ---
 
