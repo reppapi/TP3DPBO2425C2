@@ -8,11 +8,11 @@ seperti yang telah dispesifikasikan. Aamiin
 # Desain Program: Inheritance & Composition
 
 ## Diagram
-(foto diagram)
+![Diagram](diagram/Dokumentasi/ttpp3.drawio.png)
 
 ---
 
-## Kelas dan Isinya
+## Kelas-kelas
 
 ### HouseOldItem
 - **Atribut:** `item`, `price`, `room`  
@@ -85,5 +85,11 @@ seperti yang telah dispesifikasikan. Aamiin
 ---
 
 ## Dokumentasi
-(foto)
-(foto)
+**Cpp**
+![C++ Screenshot](cpp/Dokumentasi/Screenshot%202025-10-03%20214951.png)
+
+**Python**
+![Python Screenshot](python/Dokumentasi/Screenshot%202025-10-03%20215010.png)
+
+**Java**
+![Java Screenshot](java/Dokumentasi/Screenshot%202025-10-03%20215031.png)
