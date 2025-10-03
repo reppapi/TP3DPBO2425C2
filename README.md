@@ -8,7 +8,7 @@ seperti yang telah dispesifikasikan. Aamiin
 # Desain Program: Inheritance & Composition
 
 ## Diagram
-![Diagram](diagram/ttpp3.jpg)
+![Diagram](diagram/Screenshot%202025-10-03%20224036.png)
 
 ---
 
