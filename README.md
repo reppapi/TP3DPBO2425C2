@@ -9,7 +9,7 @@ seperti yang telah dispesifikasikan. Aamiin
 
 ## Diagram
 
-![C++ Screenshot](cpp/Dokumentasi/Screenshot%202025-10-03%20224036.png)
+<img src="cpp/Dokumentasi/Screenshot%202025-10-03%20224036.png" width="600">
 
 ---
 
